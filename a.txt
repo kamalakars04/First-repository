@@ -1,3 +1,5 @@
 Adding text via local master
 Adding text via local Rao
 Adding via local Rao to create conflict with NewRao
+Adding text via local NewRao 
+Conflict resolved 
